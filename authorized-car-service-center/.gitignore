@@ -1,0 +1,41 @@
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/.idea/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+###
+backend/HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+**/target/
+**/.idea/
+**/node_modules/
+**/.DS_Store
+**/*.iml
+/.env
+/backend/.mvn/wrapper/maven-wrapper.jar
+/backend/.mvn/wrapper/MavenWrapperDownloader.java

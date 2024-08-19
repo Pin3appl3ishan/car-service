@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://rsms.me/inter/inter.css');
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+:root{
+  --nav-bg-color: white;
+  --buttons-color: rgb(107, 29, 196);
+  --buttons-color-hover: rgb(82, 0, 175);
+}
+
+body {
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont,'Inter' 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.auth-button{
+  background-color: var(--buttons-color);
+  color: white;
+  margin-top: 10px;
+  width: 180px;
+  height: 43px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  font-size: 18px;
+}
+
+.sidebar-link-select {
+  background-color: rgba(70, 152, 252, 0.147);
+}

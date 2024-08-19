@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.home-banner{
+    background-image: url("../../assets/home_banner2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+
+.home-text-shadow{
+    text-shadow: -1px 1px 0 #ffffff,
+        1px 1px 0 #ffffff,
+        1px -1px 0 #ffffff,
+        -1px -1px 0 #ffffff;
+}
+
+.home-button{
+    text-decoration: none;
+    color:white;
+    border: 1px solid white;
+    padding: 12px 18px;
+    border-radius: 22px;
+
+    background-color: var(--buttons-color);
+    transition: all 0.2s ease-in-out;
+}
+
+.home-button:hover{
+    background-color: var(--buttons-color-hover);
+}
+
+.home-example-services{
+    min-height: 900px;
+}
+
+.home-schedule{
+    /* background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(75,24,255,1) 100%); */
+    /* background: rgb(63,94,251); */
+    background: linear-gradient(to bottom right, rgb(182, 212, 255), 40% , rgb(72, 145, 171));     
+}
