@@ -92,7 +92,7 @@ const Contact = () => {
                                             
                                             <div className="info-box-content-text">
                                                 <div className="info-box-text">
-                                                    <p>669 244 105</p> 
+                                                    <p>0-16 22 5511</p> 
                                                 </div>
                                             </div>
                                           </div>
@@ -131,7 +131,7 @@ const Contact = () => {
                                             
                                             <div className="info-box-content-text">
                                                 <div className="info-box-text">
-                                                    <p> krolstarejwsi69@gmail.com</p> 
+                                                    <p> asoservice69@gmail.com</p> 
                                                 </div>
                                             </div>
                                           </div>
@@ -160,7 +160,7 @@ const Contact = () => {
                                                 </span>
                                             </div>
                                             <div className="info-box-content-title">
-                                                <h3>Adress </h3>
+                                                <h3>Address </h3>
                                             </div>
 
                                             <div className="info-box-separator">
@@ -170,7 +170,7 @@ const Contact = () => {
                                             
                                             <div className="info-box-content-text">
                                                 <div className="info-box-text">
-                                                    <p>Mieczysława Medweckiego 2, 31-870 Kraków</p> 
+                                                    <p>P84J+876, Kathmandu 44600</p> 
                                                 </div>
                                             </div>
                                           </div>
@@ -192,7 +192,7 @@ const Contact = () => {
                         <div className="form-col-map">
                           <div className="form-map-col-module">
                             <div className="form-map-col-content">
-                              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2560.5038975127472!2d20.014752812340166!3d50.07685191407425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4716453af1fd622f%3A0xa62689a1c5160b1f!2zS0ZDIEtyYWvDs3cgQ3p5xbx5bnk!5e0!3m2!1spl!2spl!4v1715425964801!5m2!1spl!2spl"  className="map"></iframe>   
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.3609923548993!2d85.32740427535776!3d27.706138376183148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb190a74aa1f23%3A0x74ebef82ad0e5c15!2sSoftwarica%20College%20of%20IT%20and%20E-Commerce!5e0!3m2!1sen!2snp!4v1724148315174!5m2!1sen!2snp" className="map"></iframe>
                             </div>
                           </div>
                         </div>

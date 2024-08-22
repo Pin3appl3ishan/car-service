@@ -31,7 +31,7 @@ public class TicketUpdate {
     @CreationTimestamp
     private LocalDateTime createdAt;
     
-    @ManyToOne(optional = false)
+    @ManyToOne(optional = false) // ticket update must be associated with ticket
     @JoinColumn(name = "ticket_id")
     @OnDelete(action = OnDeleteAction.CASCADE)
     private Ticket ticket;

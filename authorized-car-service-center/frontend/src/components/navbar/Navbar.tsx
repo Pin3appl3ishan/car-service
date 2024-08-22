@@ -60,7 +60,8 @@ const Navbar = () => {
               className="h-10 w-auto"
               src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
               alt="Your Company"/>
-            <h1 className='font-semibold text-xl'>Lambordżambor</h1>
+            {/* <h1 className='font-semibold text-xl'>AUTONOVA</h1> */}
+            <h1 className='font-serif text-2xl font-extrabold tracking-wide uppercase text-gray-800'>AUTONOVA</h1>
           </div>
         </Link>
 
